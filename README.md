@@ -1,5 +1,5 @@
 # Facial Expression Recognition|Coursera Guided Project
-**Introduction:**
+**Introduction:**<br>
 Facial expressions are the universal way for people to communicate. In this project, we build a deep-learning model for detecting facial expressions.
 The dataset consists of (48,48) pixels, grayscale images of seven different expressions. (Anger, Disgust, Fear, Happy, Sad, Surprise, and Neutral).
 **Modeling**
